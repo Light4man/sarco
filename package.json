@@ -1,0 +1,10 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "python-shell": "^3.0.0"
+  }
+}
